@@ -1,0 +1,10 @@
+{
+  "description": "This AI assistant transforms personal notes and documents into a tailored knowledge graph, enhancing productivity and information retrieval for users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
